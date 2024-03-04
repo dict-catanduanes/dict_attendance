@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "105873807479",
+    "project_id": "dict-attendance-form",
+    "storage_bucket": "dict-attendance-form.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105873807479:android:7190fb4cc5f7af2f458e72",
+        "android_client_info": {
+          "package_name": "com.example.attendance_web_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALmUkRV1WaKrgA_iyOeP1bbo7Zix1GDRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
